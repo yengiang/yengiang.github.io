@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Yen Giang Nguyen</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Yen Giang Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About Me I’m a senior at VNUHCM – High school for the Gifted. As a student who is passionate of Neuroscience and neurodegenerative diseases in particular, I aspire to take part in projects, research courses and summer camps related to the field. I also interested in computer sciences and have already self-taught Python for over a year.
+Education High School for the Gifted, HCMC, Vietnam Aug 2020 - Dec 2023 Honors Class, Biology GPA: 8.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description> Email: yengiang.nguyen05@gmail.com Phone: +84-908754405 </description>
+    </item>
+    
+  </channel>
+</rss>
