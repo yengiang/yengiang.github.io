@@ -13,8 +13,10 @@
 }
 
 #content .about-photo {
-    width: min(100%, 420px);
+    width: 380px;
+    max-width: 100%;
     height: auto;
+    object-fit: contain;
     border-radius: 8px;
     margin: 0.75rem auto 1.25rem;
 }
