@@ -11,3 +11,10 @@
     white-space: nowrap;
     text-align: right;
 }
+
+#content .about-photo {
+    width: min(100%, 420px);
+    height: auto;
+    border-radius: 8px;
+    margin: 0.75rem auto 1.25rem;
+}
