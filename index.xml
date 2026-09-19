@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Yen Giang Nguyen</title>
-    <link>https://example.com/</link>
+    <link>https://yengiang.github.io/</link>
     <description>Recent content in About on Yen Giang Nguyen</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yengiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://yengiang.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>I am a sophomore at Kalamazoo College. As a student who is passionate about Neuroscience and Mathematics, I aspire to take part in classes, projects, and research labs related to the field. I am also interested in Biophysics and have experience in using Python and R.</description>
+      <guid>https://yengiang.github.io/about/</guid>
+      <description>I am a Research Data Technician in the Department of Neurodegenerative Science at Van Andel Institute. I graduated magna cum laude from Kalamazoo College with a B.A. in Biology and Mathematics. My work focuses on computational analysis and modeling of neurodegenerative disease pathology and progression.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://yengiang.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
-      <description> Email: yengiang.nguyen23@kzoo.edu </description>
+      <guid>https://yengiang.github.io/contact/</guid>
+      <description> Email: yengiang.nguyen05@gmail.com </description>
     </item>
     
   </channel>
