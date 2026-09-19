@@ -1,0 +1,13 @@
+#content .award-entry {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    column-gap: 1rem;
+    align-items: start;
+    margin-bottom: 0.85rem;
+}
+
+#content .award-date {
+    float: none;
+    white-space: nowrap;
+    text-align: right;
+}
